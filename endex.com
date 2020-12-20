@@ -1,5 +1,4 @@
 # lego-history-and-prices<html>
-<title>LEGO</title>
 <header>
 <a href="#история"><img src="https://www.gamepark.ru/upload/lego/lego-marking.jpg" width="20" height="22"><font color="red"> история LEGO</font></a>
 <a href="#цены"><img src="https://avatars.mds.yandex.net/get-mpic/1928572/img_id5981903345298113563.jpeg/orig" width="28" height="22">цены</a>
